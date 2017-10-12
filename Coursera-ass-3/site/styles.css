@@ -1,0 +1,42 @@
+body {
+	background-color: #f5e9d7;
+	font-size: 16px;
+	color: black;
+	font-family: serif;
+}
+
+/** HEADER**/
+#header-nav {
+	background-color: #476663;
+	border-radius: 0;
+	border: 0;
+	color: white;
+}
+.navbar-brand {
+	padding-top: 15px;
+}
+
+.navbar-brand h1 {
+	font-family: sans-serif;
+	color: white;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+
+#nav-list a {
+	color: white;
+	text-align: center;
+	font-size: 1.8em;
+}
+
